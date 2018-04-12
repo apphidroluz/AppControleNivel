@@ -54,6 +54,15 @@ tools:context="com.example.comercial_medicao.androidnovo.MainActivity">
     android:backgroundTint="@color/fonte"
     />
 
+    <CheckBox
+        android:id="@+id/saveLoginCheckBox"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lembrarudu"
+        android:text="Lembrar de mim"
+        android:textColor="#FFF" />
+
 <Button
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
