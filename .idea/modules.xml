@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Comercial_Medicao_Opcao_2\.idea\AppHidroluzMedicao.iml" filepath="C:\Comercial_Medicao_Opcao_2\.idea\AppHidroluzMedicao.iml" />
-      <module fileurl="file://C:\Comercial_Medicao_Opcao_2\AppHidroluzMedicao.iml" filepath="C:\Comercial_Medicao_Opcao_2\AppHidroluzMedicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppControleNivel.iml" filepath="$PROJECT_DIR$/AppControleNivel.iml" />
+      <module fileurl="file://C:/Comercial_Medicao_Opcao_2/AppHidroluzMedicao.iml" filepath="C:/Comercial_Medicao_Opcao_2/AppHidroluzMedicao.iml" />
+      <module fileurl="file://C:/Comercial_Medicao_Opcao_2/.idea/AppHidroluzMedicao.iml" filepath="C:/Comercial_Medicao_Opcao_2/.idea/AppHidroluzMedicao.iml" />
+      <module fileurl="file://C:/AppHidroluzMedicao/Comercial_Medicao_Opcao_2.iml" filepath="C:/AppHidroluzMedicao/Comercial_Medicao_Opcao_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comercial_Medicao_Opcao_2.iml" filepath="$PROJECT_DIR$/Comercial_Medicao_Opcao_2.iml" />
-      <module fileurl="file://C:\AppHidroluzMedicao\Comercial_Medicao_Opcao_2.iml" filepath="C:\AppHidroluzMedicao\Comercial_Medicao_Opcao_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

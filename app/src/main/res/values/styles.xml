@@ -6,12 +6,12 @@
         <item name="colorPrimary">@color/branco</item>
         <item name="colorPrimaryDark">@color/branco</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:statusBarColor">?android:attr/colorAccent</item>
+        <item name="@android:statusBarColor">?android:attr/colorAccent</item>
     </style>
 
     <style name="texto9">
-        <item name="android:textColor">@color/preto</item>
-        <item name="android:textSize">8pt</item>
+        <item name="@android:textColor">@color/preto</item>
+        <item name="@android:textSize">8pt</item>
     </style>
 
 </resources>
